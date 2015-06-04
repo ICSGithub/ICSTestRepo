@@ -28,8 +28,11 @@ Step11: The last useful command you should know is "git push -u origin master". 
 
 Step12: Provide your username and password when asked and your work is done.
 
+Remember that everytime you create a file or edit it, you have to use "git add" first to add the file, "git commit -m" to verify the changes you have done to the repo, and "git push" to update the master and origin folders for the repositories. 
+
 This was a quick guide to the preliminary useful features of github repository creation. Feel free to make more textfiles with more guides to help others. 
 
 Thanks
 
-/Mehrdad Kazemtabrizi
+/Mehrdad Kazemtabrizi,KTH ICS 2015
+
