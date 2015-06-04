@@ -24,9 +24,9 @@ Step10: After you are done adding files, you can use "git commit-m <a message di
 
 Step11: Another useful command is "git status" which shows which files have been added and "git log" shows who has done the recent changes.
 
-Step11: The last useful command you should know is "git push -u origin master". That means that the files you created on the repo on your PC (master) will be added to the folder on the github page (origin). 
+Step12: The last useful command you should know is "git push -u origin master". That means that the files you created on the repo on your PC (master) will be added to the folder on the github page (origin). 
 
-Step12: Provide your username and password when asked and your work is done.
+Step13: Provide your username and password when asked and your work is done.
 
 Remember that everytime you create a file or edit it, you have to use "git add" first to add the file, "git commit -m" to verify the changes you have done to the repo, and "git push" to update the master and origin folders for the repositories. 
 
