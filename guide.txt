@@ -1,6 +1,6 @@
-nk to the video is: https://www.youtube.com/watch?v=73I5dRucCds
 
-However, the steps described below are enough to help you to create a repository failry easily. Before that, however, I should mention that it is better for you to download Git Bash which is a command prompt. Just search for it on Google and you can find it.
+
+The steps described below are going to help you create a repository failry easily and be familiar with some of github's commands.
 
 Step1: You can click on the ICSGithub icon and choose "New Repository".
 
